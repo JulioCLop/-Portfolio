@@ -1,0 +1,27 @@
+{
+  "name": "new_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./style.scss dist/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioCLop/Portfolio_Main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioCLop/Portfolio_Main/issues"
+  },
+  "homepage": "https://github.com/JulioCLop/Portfolio_Main#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta2"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
